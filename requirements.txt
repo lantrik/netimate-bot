@@ -1,6 +1,7 @@
-motor
-pymongo
 aiogram==3.13.1
-pydantic
 python-dotenv
+pymongo
+pydantic
 dnspython
+motor
+apscheduler

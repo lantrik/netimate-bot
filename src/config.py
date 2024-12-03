@@ -12,8 +12,8 @@ DEVELOPER_ID = int(getenv("DEVELOPER_ID", 0))
 
 ### HANDLERS
 
-HANDLERS_ROOT = "src.handlers"
-HANDLERS = ["general"]
+HANDLERS_ROOT = "src"
+HANDLERS = ["handlers"]
 
 ### DIRECTORIES
 

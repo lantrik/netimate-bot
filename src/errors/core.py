@@ -4,7 +4,6 @@ from ._base import Error
 class CoreError(Error):
     """Bot core error"""
 
-
 class RouterError(CoreError):
     """Router error"""
 
